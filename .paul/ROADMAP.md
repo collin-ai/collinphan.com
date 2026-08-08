@@ -28,11 +28,11 @@ Note: Deployed via GitHub Pages (not Vercel). Vercel remains an option for futur
 
 ## Milestone 3 — Post-Launch
 
-Status: **NOT STARTED**
+Status: **DONE**
 
 | Phase | Name | Status |
 |-------|------|--------|
-| 05 | Post-deploy cleanup + content updates | Planned |
+| 05 | Post-deploy cleanup + content updates | **DONE** |
 
 ### Workflow Reminder
 
@@ -42,10 +42,11 @@ Status: **NOT STARTED**
 
 | # | Task | Status |
 |---|------|--------|
-| 1 | Fix collinphan.com project row GitHub link (`<span>` → real `<a>` tag) | Planned |
-| 2 | Lighthouse audit on live URL — compare to Phase 03 score of 93 | Planned |
-| 3 | Resume update | Planned |
-| 4 | Update README.md to explain the PAUL programming process to a general audience | Planned |
+| 1 | Fix collinphan.com project row GitHub link (`<span>` → real `<a>` tag) | **DONE** |
+| 2 | Lighthouse audit on live URL — compare to Phase 03 score of 93 | Deferred — skipped this session |
+| 3 | Resume update (SMLDP rotations, education order, skills chips) | **DONE** |
+| 4 | Update README.md to explain the PAUL framework for a general audience | **DONE** |
+| + | Remove bold from resume bullet labels (post-push correction) | **DONE** |
 
 ---
 

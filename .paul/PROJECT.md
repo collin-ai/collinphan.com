@@ -13,7 +13,7 @@ A professional online presence that showcases Collin's career in healthcare tech
 | Attribute | Value |
 |-----------|-------|
 | Version | v1.0 (Live) |
-| Status | Milestone 2 complete — site is live |
+| Status | Milestone 3 complete — post-launch cleanup done |
 | Last Updated | 2026-08-08 |
 
 ## Tech Stack
@@ -44,11 +44,13 @@ A professional online presence that showcases Collin's career in healthcare tech
 - [x] Configure collinphan.com domain via Spaceship DNS + GitHub Pages
 - [x] HTTPS enforced via GitHub Pages free SSL
 
-### Milestone 3 — Post-Launch (TBD)
+### Milestone 3 — Post-Launch ✓
 
-- [ ] Update collinphan.com project row — add GitHub link (currently a `<span>`, needs `<a>`)
-- [ ] Run Lighthouse on live URL
-- [ ] Features and content updates to be decided
+- [x] Fix collinphan.com project row GitHub link
+- [x] Resume update — SMLDP rotations, education order, skills chips
+- [x] README rewrite — PAUL framework explained for general audience
+- [x] Remove bold from resume bullet labels
+- [ ] Lighthouse audit on live URL — deferred from Phase 05
 
 ## Constraints
 
