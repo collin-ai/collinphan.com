@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A personal portfolio site for Collin Phan — landing hero, resume, programming projects, and contact. Deployed as a static site on Vercel at collinphan.com.
+A personal portfolio site for Collin Phan — landing hero, resume, programming projects, and contact. Deployed as a static site on GitHub Pages at collinphan.com.
 
 ## Core Value
 
@@ -12,9 +12,9 @@ A professional online presence that showcases Collin's career in healthcare tech
 
 | Attribute | Value |
 |-----------|-------|
-| Version | v0.1 (Design complete, pre-content) |
-| Status | Milestone 1 not started |
-| Last Updated | 2026-05-02 |
+| Version | v1.0 (Live) |
+| Status | Milestone 2 complete — site is live |
+| Last Updated | 2026-08-08 |
 
 ## Tech Stack
 
@@ -23,29 +23,32 @@ A professional online presence that showcases Collin's career in healthcare tech
 | Markup | HTML5 — single scroll page |
 | Styling | CSS3 — custom design system, CSS variables, light/dark |
 | Logic | Vanilla JavaScript (IIFE, no framework) |
-| Hosting | Vercel (static) |
-| Domain | collinphan.com |
+| Hosting | GitHub Pages (static) |
+| Domain | collinphan.com (DNS via Spaceship.com) |
+| Repo | github.com/collin-ai/collinphan.com (public) |
 
 ## Requirements
 
-### Milestone 1 — Content + Polish
+### Milestone 1 — Content + Polish ✓
 
-- [ ] Fill in real programming projects (names, descriptions, links, tech tags, years)
-- [ ] Decide on contact email — confirm which address to use site-wide
-- [ ] Integrate profile photo (Pfp.heic) — placement TBD
-- [ ] Remove tweaks panel and toggle before launch (dev-only helper)
-- [ ] Update README for final project state
+- [x] Fill in real programming projects (names, descriptions, links, tech tags, years)
+- [x] Decide on contact email — collindphan@gmail.com
+- [x] Integrate profile photo — Photos/Pfp.jpeg used in About section
+- [x] Code review + pre-launch polish (Phase 03)
+- [x] Update README for final project state
 
-### Milestone 2 — Features (TBD)
+### Milestone 2 — Deploy ✓
 
-- [ ] Features to be decided during planning
+- [x] Create GitHub repository (github.com/collin-ai/collinphan.com)
+- [x] Push source to GitHub
+- [x] Configure collinphan.com domain via Spaceship DNS + GitHub Pages
+- [x] HTTPS enforced via GitHub Pages free SSL
 
-### Milestone 3 — Deploy
+### Milestone 3 — Post-Launch (TBD)
 
-- [ ] Create GitHub repository
-- [ ] Push source to GitHub
-- [ ] Connect repo to Vercel
-- [ ] Configure collinphan.com domain in Vercel
+- [ ] Update collinphan.com project row — add GitHub link (currently a `<span>`, needs `<a>`)
+- [ ] Run Lighthouse on live URL
+- [ ] Features and content updates to be decided
 
 ## Constraints
 
