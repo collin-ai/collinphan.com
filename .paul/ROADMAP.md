@@ -4,7 +4,7 @@
 
 ## Milestone 1 — Content + Polish (v0.2)
 
-Status: **IN PROGRESS**
+Status: **DONE**
 
 | Phase | Name | Status |
 |-------|------|--------|
@@ -16,11 +16,32 @@ Status: **IN PROGRESS**
 
 ## Milestone 2 — Deploy (v1.0)
 
+Status: **DONE**
+
+| Phase | Name | Status |
+|-------|------|--------|
+| 04 | GitHub + GitHub Pages + Spaceship DNS | **DONE** |
+
+Note: Deployed via GitHub Pages (not Vercel). Vercel remains an option for future if needed.
+
+---
+
+## Milestone 3 — Post-Launch
+
 Status: **NOT STARTED**
 
 | Phase | Name | Status |
 |-------|------|--------|
-| 04 | GitHub + Vercel + domain | Planned |
+| 05 | Post-deploy cleanup + content updates | Planned |
+
+### Phase 05 Task List
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Fix collinphan.com project row GitHub link (`<span>` → real `<a>` tag) | Planned |
+| 2 | Lighthouse audit on live URL — compare to Phase 03 score of 93 | Planned |
+| 3 | Resume update | Planned |
+| 4 | Update README.md to explain the PAUL programming process to a general audience | Planned |
 
 ---
 
