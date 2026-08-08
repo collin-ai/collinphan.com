@@ -34,6 +34,10 @@ Status: **NOT STARTED**
 |-------|------|--------|
 | 05 | Post-deploy cleanup + content updates | Planned |
 
+### Workflow Reminder
+
+**Always preview in Live Server before pushing.** GitHub Pages is the live site — push = publish. Catch visual issues locally first.
+
 ### Phase 05 Task List
 
 | # | Task | Status |

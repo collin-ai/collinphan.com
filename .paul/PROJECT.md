@@ -57,6 +57,10 @@ A professional online presence that showcases Collin's career in healthcare tech
 - Must work in Chrome, Firefox, Safari
 - Print-to-PDF (Cmd+P) must render resume cleanly
 
+## Workflow Rules
+
+- **Always preview changes in Live Server before committing and pushing to GitHub.** GitHub Pages is the live site — a push is a publish. Visual regressions must be caught locally first.
+
 ## Out of Scope
 
 - CMS or dynamic content

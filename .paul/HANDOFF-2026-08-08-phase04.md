@@ -67,6 +67,8 @@ Read these files in order before doing anything:
 - Goal: someone with no coding background should understand what PAUL is and why it's useful
 
 ### Workflow reminder
+**Preview in Live Server before every push.** GitHub Pages is the live site — a push is a publish. Catch visual regressions locally first.
+
 Any code changes must be committed and pushed to GitHub for the live site to update:
 ```
 git add <file>
